@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f3f0e0;
+    color: #333;
+  }
+  
+  header h1 {
+    color: #d2691e;
+  }
+  
+  #productos {
+    margin-top: 20px;
+  }
+  
+  .producto {
+    background-color: #fff8e1;
+    padding: 10px;
+    margin: 10px auto;
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    background-color: #d2691e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
